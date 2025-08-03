@@ -5,7 +5,8 @@ https://github.com/SailakshmiSingh9/workforce-management-backend-assignment
 
 ### 2. Link to your Video Demonstration
 (Please ensure the link is publicly accessible)
-[https://youtu.be/LI_I6wtbiWw](https://drive.google.com/file/d/1kUSVlkvOLgAwA6lJKEiIG9czf_DvSZ2p/view?usp=drive_link)
+
+https://drive.google.com/file/d/1kUSVlkvOLgAwA6lJKEiIG9czf_DvSZ2p/view?usp=drive_link
 ---
 
 ## 🎯 **Implementation Summary**
